@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MvPI 1.0</string>
+    <string name="refresh">Refresh</string>
+    <string name="forward">Forward</string>
+    <string name="back">Back</string>
+    <string name="share">Share</string>
+</resources>
